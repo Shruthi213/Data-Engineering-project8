@@ -1,7 +1,7 @@
 # Data-Engineering-project8
 Azure Data Engineering project 
 # Description:
-This project is Created to practise ETL operations in Azure.This project main focus is Copying Azure SQL tables to Azure Synapse Analytics Dedicated SQL pool.
+This project is Created to do ETL operations in Azure.This project main focus is Copying Azure SQL tables to Azure Synapse Analytics Dedicated SQL pool.
 # Steps followed to create this project
 Step1:Created Azure Database , created some tables and Inserted data into tables.
 Step2:Created Dedicated SQL in Azure Synapse.
