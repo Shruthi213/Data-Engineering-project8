@@ -8,3 +8,5 @@ Step2:Created Dedicated SQL in Azure Synapse.
 Step3:Created Two Linked Services One for Azure SQL and One for Synapse Dedicated SQL.
 Step4:Injest Data Created Pipeline -> Copy Data Tool ->Source -> Sink.
 Step5:Run and Publish the pipeline.
+# Test Project
+Check Data is inserted correctly into the Azure synapse.
